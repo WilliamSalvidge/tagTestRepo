@@ -1,3 +1,3 @@
-const testTagFunction = (a, b) => {
-  return a + b
+const testTagFunction = (a, b, c) => {
+  return a + b + c;
 }
